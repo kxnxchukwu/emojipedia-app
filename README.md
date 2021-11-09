@@ -2,7 +2,7 @@
 The Emojipedia App shows various emojis and their meanings.
 
 ### Links
-- **Main App**: [here]()
+- **Main App**: [here](https://myemojiepadiaapp.herokuapp.com/)
 
 ### Technologies
 - **React**
